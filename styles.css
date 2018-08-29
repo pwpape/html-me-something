@@ -13,12 +13,7 @@ body {
 p { 
 	margin-top: 0; 
     text-align: justify;
-    min-width: 200px;
-    max-width: 300px;
 	}
-h1 {
-    font-size: 21.2px;
-}
 h3 { 
 	font: italic normal 1.4em georgia, sans-serif;
 	letter-spacing: 1px; 
@@ -186,3 +181,11 @@ footer a:link, footer a:visited {
 	width: 148px; 
 	height: 110px;
 	}
+
+.poem {
+	width: 300px;
+}
+
+.poem-title {
+	font-size: 20px;
+}
